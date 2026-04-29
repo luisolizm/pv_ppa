@@ -16,7 +16,7 @@ from reportlab.lib.units import cm
 from reportlab.lib import colors as rl_colors
 from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 
-st.set_page_config(page_title="Te amo chiquita, aquí tienes tu poema",
+st.set_page_config(page_title="SIZING",
     page_icon="☀️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -1162,7 +1162,7 @@ if "nasa_source_label" not in st.session_state:
 with st.sidebar:
     st.image("logo.png", width=275)   # Logo ocupa todo el ancho del sidebar
     st.markdown("---")
-    st.markdown("### ☀️ Pre-Sizing")
+    st.markdown("### ☀️ Estás como para ponerte un OXXO, Te amo gordita")
     st.markdown("---")
 
     # ── Ubicación con Mapa (solo coordenadas en sidebar) ─────────────────────
