@@ -1162,7 +1162,7 @@ if "nasa_source_label" not in st.session_state:
 with st.sidebar:
     st.image("logo.png", width=275)   # Logo ocupa todo el ancho del sidebar
     st.markdown("---")
-    st.markdown("### ☀️ Estás como para ponerte un OXXO, Te amo gordita")
+    st.markdown("### ☀️ Sizing Tool")
     st.markdown("---")
 
     # ── Ubicación con Mapa (solo coordenadas en sidebar) ─────────────────────
