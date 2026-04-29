@@ -16,7 +16,7 @@ from reportlab.lib.units import cm
 from reportlab.lib import colors as rl_colors
 from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 
-st.set_page_config(page_title="Solar Sizing Tool",
+st.set_page_config(page_title="Te amo chiquita, aquí tienes tu poema",
     page_icon="☀️",
     layout="wide",
     initial_sidebar_state="expanded",
